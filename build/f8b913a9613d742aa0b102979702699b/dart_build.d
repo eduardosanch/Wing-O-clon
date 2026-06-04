@@ -1,0 +1,1 @@
+ /Users/eduardo_fsanchez/Wing-O-clon/wingo/build/f8b913a9613d742aa0b102979702699b/dart_build_result.json:  /Users/eduardo_fsanchez/Wing-O-clon/wingo/.dart_tool/package_config.json /Users/eduardo_fsanchez/Wing-O-clon/wingo/pubspec.yaml /opt/homebrew/share/flutter/bin/cache/dart-sdk/version
